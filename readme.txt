@@ -1,5 +1,7 @@
 5 FARKLI DILDE SES VERISI KAZIMA VE ON ISLEME PROJE 2 README
 
+GitHub proje hesabımı gizli yapıp proje linkini sorunsuz bir şekilde nasıl paylaşabileceğimi bulamadığım için ve bir sorun yaşanmaması adına proje public olarak bırakılmıştır.
+
 Proje Açıklaması
 
 Bu proje, ses verilerini işleyerek konuşma tanıma yapmak amacıyla geliştirilmiştir. Google Colab ortamında çalıştırılmak üzere tasarlanmış olup, veriler Google Drive üzerinden alınmaktadır. Proje, farklı konuşma tanıma modelleri üzerinde eğitim ve değerlendirme yaparak performans analizi sağlar. Eğitim sürecinde çeşitli görselleştirmeler, doğruluk ve kayıp grafikleri, karmaşıklık matrisi ve ROC eğrisi gibi metrikler sunulmaktadır.
@@ -87,5 +89,7 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 2) Google Drive'ınızı bağlayın ve veri dizininizi yükleyin.
 3) Yukarıda belirtilen kütüphanelerin önceden yüklü olduğunu doğrulayın.
 4) Kod hücrelerini sırayla çalıştırarak modelinizi eğitin ve değerlendirin.
+
+ 
 
 DOĞUKAN.
